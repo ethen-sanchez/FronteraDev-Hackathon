@@ -1,0 +1,1 @@
+This was a program created for a general Hackathon that I attended freshman year. This program is very basic but I actually had only done one class in C++ at the time. This was completed in 24 hours with no knowledge of python or its package tkinter. 
